@@ -1,0 +1,22 @@
+{
+  "name": "mypackage",
+  "version": "1.6.8",
+  "description": "xyz",
+  "keywords": [
+    "34567"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "first"
+  },
+  "license": "ISC",
+  "author": "..gh",
+  "type": "ety",
+  "main": "pot",
+  "scripts": {
+    "test": "abcd"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
